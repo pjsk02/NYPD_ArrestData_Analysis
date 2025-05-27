@@ -2,8 +2,6 @@
 
 **An End-to-End BI Solution with Alteryx, Snowflake, ADF, and Tableau**
 
-📍 _Built by: Je Sai Kailash Pulipati_
-
 ---
 
 ## 📌 Project Summary  
