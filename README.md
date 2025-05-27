@@ -1,5 +1,5 @@
 # NYPD Crime Analysis & BI Pipeline project
-# 🚔 NYPD Crime Intelligence Pipeline  
+
 **An End-to-End BI Solution with Alteryx, Snowflake, ADF, and Tableau**
 
 📍 _Built by: Je Sai Kailash Pulipati_
